@@ -19,6 +19,6 @@ def test_02():
 test = {
     "01": test_01,
     "02": test_02,
-}[sys.argv[1]]
+}["02"]
 
 test()
